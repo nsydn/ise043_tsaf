@@ -1,1 +1,1 @@
-<img src="media/logo.png" style="width: 40%; display: block; margin: auto;">
+<img src="media/logo.png" style="width: 60%; display: block; margin: auto;">
