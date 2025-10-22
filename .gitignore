@@ -1,0 +1,6 @@
+submitted/
+autograded/
+venv/
+ise043_tsaf/
+.ipynb_checkpoints/
+gradebook.db
